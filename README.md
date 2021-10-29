@@ -1,3 +1,11 @@
+# Introduction
+
+Always had an interest in Crypto and thought why not create a website that displays simple data on all the cryptos? Created this website using ReactJS alongside with ant-design to get a clean looking UI. All the data that is retrieved to the wesite gets fetched from an API called "coinranking" which you can find over at rapidAPI. 
+
+P.S. Make sure to store your keys in the .env file from rapidAPI!
+
+Fun project overall! :)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
